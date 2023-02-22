@@ -7,13 +7,13 @@
 
 # Site Settings
 locale: "en-US"
-title: "God helps those who help themselves - 天道酬勤"
+title: "Reza Mokhtari"
 title_separator: "-"
-name: &name "Edward"
+name: &name "Reza Mokhtari"
 description: &description "personal description"
-url: https://edwarddou2020.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: https://rezamokhtari1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
-repository: "edwarddou2020/edwarddou2020.github.io"
+repository: "rezamokhtari1/rezamokhtari1.github.io"
 teaser:  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs: false # true, false (default)
 words_per_minute: 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name: "Edward, Ph.D."
-  avatar: "edward.jpg"
-  bio: "Privacy Computing & Software Architect"
-  location: "Toronto, CANADA"
+  name: "Reza Mokhtari"
+  avatar: "reza.jpg"
+  bio: "Lead of Computation Genomics"
+  location: "San Francisco Bay Area"
   employer:
   pubmed:
-  googlescholar: "https://scholar.google.com/citations?user=dPaE9AMAAAAJ&hl=en"
+  googlescholar: 
   email:
   researchgate:
   uri:
@@ -102,7 +102,7 @@ author:
   instagram:
   impactstory:
   lastfm:
-  linkedin: "edward-dou-a0835945"
+  linkedin: "rmokhtari"
   orcid:
   pinterest:
   soundcloud:
